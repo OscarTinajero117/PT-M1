@@ -152,9 +152,7 @@ getFood(false);
  
  console.log(test());
 
- //R: 'Aurelio De Rosa' y undefined, porque el atributo
- //prop tiene la función y tiene un fullname; undefined porque 
- //el atributo getFullname no existe
+ //R: 'Aurelio De Rosa' y 'Juan Perez'
 
 /**
  * EVENT LOOP
